@@ -1,8 +1,8 @@
 # EmployeeManagementService
 
-Simple Employee Management Service using spring boot without using any database or repository.
+Simple Employee Management Service using spring boot without using any database or repository for performing CRUD operations.
 
-Temporarily storing the data using Data Structures - ArrayList.
+Temporarily storing the data using Data Structures for CRUD operations - ArrayList.
 
 To run this application
 1. Download the project

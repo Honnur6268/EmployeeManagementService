@@ -1,4 +1,5 @@
 # EmployeeManagementService
+#For practice purpose only.
 
 Simple Employee Management Service using spring boot without using any database or repository for performing CRUD operations.
 
